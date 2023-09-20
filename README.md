@@ -7,7 +7,7 @@
 
 A CLI to upload and download files from the Capgo Cloud.
 
-## Usage
+## Funny change
 
 Before use the CLI, you should register here : https://capgo.app/
 
